@@ -1,10 +1,6 @@
 # SilentETHMiner
 Can mine any Ethash or Etchash cryptocurrency.
 
-# SilentETHMiner v1.5.4 - Based on Lime Miner v0.3
-
-Can mine any Ethash or Etchash cryptocurrency.
-
 ## Main Features
 
 * .NET - Coded in C#, requires .NET Framework 4.5
